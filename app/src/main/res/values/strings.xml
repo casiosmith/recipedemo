@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">recipe demo</string>
+    <string-array name="food">
+        <item>Chicken Roll</item>
+        <item>Donut</item>
+        <item>Dosa</item>
+        <item>Pancake</item>
+        <item>Pasta</item>
+    </string-array>
 </resources>
